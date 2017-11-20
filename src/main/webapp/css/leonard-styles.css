@@ -1,0 +1,32 @@
+@CHARSET "UTF-8";
+
+.margin-10 {
+	margin: 10px 10px 10px 10px !important;
+}
+
+.margin-15 {
+	margin: 15px 15px 15px 15px !important;
+}
+
+.bottom-margin-10 {
+	margin: 10px 0px 10px 0px !important;
+}
+
+.float-wrapper {
+	position:relative;
+}
+
+.text-bold {
+	font-weight: bold;
+}
+
+.float-vertical-align {
+  position: absolute;
+  top: 50%;
+  right: 1%;
+  transform: translateY(-50%);
+}
+
+.alert-auto {
+	display:inline-block;
+}
