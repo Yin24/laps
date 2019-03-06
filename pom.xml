@@ -333,7 +333,9 @@
 	
 
 	</dependencies>
-
+<profiles>
+   <profile>
+	<id>openshift</id>
 	<build>
 
 		<plugins>
@@ -405,5 +407,6 @@
 		</plugins>
 
 	</build>
-
+    </profile>
+  </profiles>
 </project>
